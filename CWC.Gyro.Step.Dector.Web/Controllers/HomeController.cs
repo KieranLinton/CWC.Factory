@@ -19,30 +19,6 @@ namespace CWC.Gyro.Step.Dector.Web.Controllers
 
         public async Task<IActionResult> Index()
         {
-            // create message to output 
-            LoggingMessage loggingMessage = new LoggingMessage
-            {
-                DateAdded = DateTime.Now,
-                Message = "Message To Log",
-                MessageFrom = "CWC.Gyro.Step.Detector"
-            };
-
-            // send message to log
-            await _loggingService.SendMessageToLog(loggingMessage);
-
-            // create new person
-            PersonClaim personClaim = new PersonClaim
-            {
-                DateJoined = DateTime.Now,
-                IsActive = true,
-                Email = "email@emai.com",
-                UserName = "kiern",
-                Password = "password"
-            };
-
-            // add preson to db
-            personClaim = await _personService.AddPerson(personClaim);
-
             return View();
         }
     }

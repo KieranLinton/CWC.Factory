@@ -30,3 +30,4 @@ C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Gyro.Step.Dector.Web\obj\Debug\ne
 C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Gyro.Step.Dector.Web\obj\Debug\netcoreapp2.2\CWC.Gyro.Step.Dector.Web.csproj.CopyComplete
 C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Gyro.Step.Dector.Web\obj\Debug\netcoreapp2.2\CWC.Gyro.Step.Dector.Web.dll
 C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Gyro.Step.Dector.Web\obj\Debug\netcoreapp2.2\CWC.Gyro.Step.Dector.Web.pdb
+C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Gyro.Step.Dector.Web\obj\Debug\netcoreapp2.2\Razor\Views\Accelero\Index.g.cshtml.cs

@@ -6,4 +6,3 @@ C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Domain.Objects\obj\Debug\netcorea
 C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Domain.Objects\obj\Debug\netcoreapp2.2\CWC.Domain.Objects.AssemblyInfo.cs
 C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Domain.Objects\obj\Debug\netcoreapp2.2\CWC.Domain.Objects.dll
 C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Domain.Objects\obj\Debug\netcoreapp2.2\CWC.Domain.Objects.pdb
-C:\Users\karl\Documents\GitHub\CWC.Factory\CWC.Domain.Objects\obj\Debug\netcoreapp2.2\CWC.Domain.Objects.csprojAssemblyReference.cache
