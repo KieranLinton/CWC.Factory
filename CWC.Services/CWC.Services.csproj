@@ -8,8 +8,4 @@
     <ProjectReference Include="..\CWC.Domain.Objects\CWC.Domain.Objects.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Person\" />
-  </ItemGroup>
-
 </Project>

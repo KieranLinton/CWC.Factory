@@ -551,7 +551,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.2.0": {
-      "sha512": "OK/H8p9Ig6mLMITjXJ4VOewrJg/TU+dAPHE4BdMWMv+8COzBehf7XF1+DofKkmqdHpO2cJoS5Sc9PEZ6PKCbsg==",
+      "sha512": "qIrVLupwT2NYTrf7KM7Nh+mJr36V5MITVRjyGOByVVCwGmQgQmI/6bjZYQv+QdExi4Cm87eCKJX9FdT6nc00Xg==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.2.0",
       "files": [
@@ -773,23 +773,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karl\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\proto\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
+      "projectUniqueName": "E:\\GIT repositories\\CWC.Factory\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
       "projectName": "CWC.Gyro.Step.Detector",
-      "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
-      "packagesPath": "C:\\Users\\karl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Gyro.Step.Detector\\obj\\",
+      "projectPath": "E:\\GIT repositories\\CWC.Factory\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
+      "packagesPath": "C:\\Users\\proto\\.nuget\\packages\\",
+      "outputPath": "E:\\GIT repositories\\CWC.Factory\\CWC.Gyro.Step.Detector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\proto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -802,11 +802,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj": {
-              "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj"
+            "E:\\GIT repositories\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj": {
+              "projectPath": "E:\\GIT repositories\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj"
             },
-            "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Services\\CWC.Services.csproj": {
-              "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Services\\CWC.Services.csproj"
+            "E:\\GIT repositories\\CWC.Factory\\CWC.Services\\CWC.Services.csproj": {
+              "projectPath": "E:\\GIT repositories\\CWC.Factory\\CWC.Services\\CWC.Services.csproj"
             }
           }
         }

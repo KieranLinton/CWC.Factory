@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karl\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\proto\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
+      "projectUniqueName": "E:\\GIT repositories\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
       "projectName": "CWC.Domain.Objects",
-      "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
-      "packagesPath": "C:\\Users\\karl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\obj\\",
+      "projectPath": "E:\\GIT repositories\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
+      "packagesPath": "C:\\Users\\proto\\.nuget\\packages\\",
+      "outputPath": "E:\\GIT repositories\\CWC.Factory\\CWC.Domain.Objects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\proto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
