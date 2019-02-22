@@ -84,3 +84,15 @@ C:\SourceCode\SocialManufacturing\SM.Mongo.DataBase.Repository\obj\Debug\netcore
 C:\SourceCode\SocialManufacturing\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.pdb
 C:\SourceCode\SocialManufacturing\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
 C:\SourceCode\SocialManufacturing\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.csprojAssemblyReference.cache
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.csproj.CoreCompileInputs.cache
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.AssemblyInfoInputs.cache
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.AssemblyInfo.cs
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.dll
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.pdb
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.deps.json
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.dll
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.pdb
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\CWC.Domain.Objects.dll
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\bin\Debug\netcoreapp2.2\CWC.Domain.Objects.pdb
+C:\Users\karl\Documents\GitHub\CWC.Factory\SM.Mongo.DataBase.Repository\obj\Debug\netcoreapp2.2\SM.Mongo.DataBase.Repository.csproj.CopyComplete

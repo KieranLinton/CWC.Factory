@@ -1,19 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using CWC.Domain.Objects.Generic;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+using System;
 
 namespace CWC.Domain.Objects.Person
 {
-   
-class PersonClaim
+    public class PersonClaim : IEntity
     {
-        public string id { get; set; }
-        public string username { get; set; }
-        public string password { get; set; }
-        public string email { get; set; }
-        public string dateJoined { get; set; }
-        public bool isActive { get; set; }
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string Id { get; set; }
+        public bool IsActive { get; set; }
 
-
+        public string UserName { get; set; }
+        public string Password { get; set; }
+        public string Email { get; set; }
+        public DateTime DateJoined { get; set; }
     }
 }

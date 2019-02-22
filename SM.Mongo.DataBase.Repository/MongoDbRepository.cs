@@ -1,8 +1,8 @@
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using CWC.Domain.Objects.Generic;
 using MongoDB.Driver;
-using SM.Domain.Objects.Generics;
 
 namespace SM.Mongo.DataBase.Repository
 {
