@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
+      "projectUniqueName": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
       "projectName": "CWC.Domain.Objects",
-      "projectPath": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
+      "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj",
       "packagesPath": "C:\\Users\\karl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Domain.Objects\\obj\\",
+      "outputPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

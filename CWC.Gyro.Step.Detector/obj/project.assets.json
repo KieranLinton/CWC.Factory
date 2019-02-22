@@ -779,11 +779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
+      "projectUniqueName": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
       "projectName": "CWC.Gyro.Step.Detector",
-      "projectPath": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
+      "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Gyro.Step.Detector\\CWC.Gyro.Step.Detector.csproj",
       "packagesPath": "C:\\Users\\karl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Gyro.Step.Detector\\obj\\",
+      "outputPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Gyro.Step.Detector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -802,11 +802,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj": {
-              "projectPath": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj"
+            "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj": {
+              "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Domain.Objects\\CWC.Domain.Objects.csproj"
             },
-            "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Services\\CWC.Services.csproj": {
-              "projectPath": "C:\\Users\\karl\\Desktop\\CosWeCan\\CWC.Services\\CWC.Services.csproj"
+            "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Services\\CWC.Services.csproj": {
+              "projectPath": "C:\\Users\\karl\\Documents\\GitHub\\CWC.Factory\\CWC.Services\\CWC.Services.csproj"
             }
           }
         }
