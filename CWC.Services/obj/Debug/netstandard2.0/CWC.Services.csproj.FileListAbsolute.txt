@@ -1,0 +1,12 @@
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\bin\Debug\netstandard2.0\CWC.Services.deps.json
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\bin\Debug\netstandard2.0\CWC.Services.dll
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\bin\Debug\netstandard2.0\CWC.Services.pdb
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\bin\Debug\netstandard2.0\CWC.Domain.Objects.dll
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\bin\Debug\netstandard2.0\CWC.Domain.Objects.pdb
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.csprojAssemblyReference.cache
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.csproj.CoreCompileInputs.cache
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.AssemblyInfoInputs.cache
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.AssemblyInfo.cs
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.csproj.CopyComplete
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.dll
+C:\Users\karl\Desktop\CosWeCan\CWC.Services\obj\Debug\netstandard2.0\CWC.Services.pdb
